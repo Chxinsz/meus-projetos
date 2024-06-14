@@ -1,2 +1,0 @@
-# meus-projetos
-Alura
